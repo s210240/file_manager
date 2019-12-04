@@ -23,7 +23,6 @@
         </tr>
         </thead>
         <tbody>
-        {{app('request')->has('directory')}}
         Path: {{app('request')->input('directory')}}
 
         @if(app('request')->has('directory') == 1)
