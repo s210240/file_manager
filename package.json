@@ -19,6 +19,6 @@
         "sass-loader": "^7.1.0"
     },
     "dependencies": {
-        "webpack": "^5.72.1"
+        "webpack": "^5.76.0"
     }
 }
